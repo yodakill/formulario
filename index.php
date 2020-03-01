@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Código fonte formulario php"/>
         <meta name="keywords" content="formulario php, bootstrap, bootstrap validator"/>
-        <meta name="author" content="Bruno"/>
+        <meta name="author" content="#"/>
 
         <title>Formulário PHP</title>
 
@@ -30,7 +30,7 @@
     <body>
         <main class="container">
             <h1>Formulário de Contato</h1>
-            <p>Acrescente um email válido para receber o email teste!</p>
+            <p>Acrescente um email válido</p>
             <br>
             <form class="form-horizontal" action="index.php#formulario" method="post" role="form" data-toggle="validator">
                 <div class="form-group">
