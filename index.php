@@ -34,28 +34,28 @@
             <br>
             <form class="form-horizontal" action="index.php#formulario" method="post" role="form" data-toggle="validator">
                 <div class="form-group">
-                    <label class="control-label col-sm-3">Nome*:</label>
+                    <label class="control-label col-sm-3">Nome:</label>
                     <div class="col-sm-9">
                         <input type="text" class="form-control" name="nome" id="nome" value="" placeholder="seu nome" required >
                         <div class="help-block with-errors"></div>
                     </div>
                 </div>
                 <div class="form-group">
-                    <label class="control-label col-sm-3">Email*:</label>
+                    <label class="control-label col-sm-3">Email:</label>
                     <div class="col-sm-9">
                         <input type="email" class="form-control" name="email" id="email" value="" placeholder="exemplo@dominio.com" required>
                         <div class="help-block with-errors"></div>
                     </div>
                 </div>
                 <div class="form-group">
-                    <label class="control-label col-sm-3">Telefone*:</label>
+                    <label class="control-label col-sm-3">Telefone:</label>
                     <div class="col-sm-9">
                         <input type="number" class="form-control" name="telefone" id="telefone" placeholder="(00) 00000-0000" required>
                         <div class="help-block with-errors"></div>
                     </div>
                 </div>
                 <div class="form-group">
-                    <label class="control-label col-sm-3">Assunto*:</label>
+                    <label class="control-label col-sm-3">Assunto:</label>
                     <div class="col-sm-9">
                         <select class="form-control" name="assunto" required>
                             <option value="" selected="selected" disabled="disabled"> -- Escolha uma opção --</option>
