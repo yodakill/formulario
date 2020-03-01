@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Código fonte formulario php"/>
         <meta name="keywords" content="formulario php, bootstrap, bootstrap validator"/>
-        <meta name="author" content="Cristiane Faria"/>
+        <meta name="author" content="#"/>
 
         <title>Formulário PHP</title>
 
